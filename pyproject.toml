@@ -1,0 +1,12 @@
+[project]
+name = "astropy-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "astropy>=4.3.1",
+    "ipykernel>=6.16.2",
+    "matplotlib>=3.5.3",
+    "pytz>=2025.1",
+]
